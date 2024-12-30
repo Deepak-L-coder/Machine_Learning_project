@@ -79,9 +79,3 @@ This project demonstrates the practical application of machine learning in the r
 - Experiment with additional machine learning models.
 - Implement hyperparameter tuning for Random Forest.
 - Explore deep learning techniques for improved performance.
-
-## Acknowledgements
-- Dataset Source: [Include link if public dataset is used].
-- Tools and Libraries: Python, Scikit-learn, Pandas, Matplotlib.
-
-Feel free to contribute to this project by submitting issues or pull requests!
